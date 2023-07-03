@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sieun.
-- 👀 I’m interested in Cloud Native Project and Database
+- 👀 I’m interested in Cloud Native Project and IaC.
 - 🌱 I’m currently learning on database and backend 
 
 <!---
